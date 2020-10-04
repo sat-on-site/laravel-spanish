@@ -13,7 +13,7 @@ class InstallLang extends Command
     public function handle()
     {
         Artisan::call('vendor:publish' , [
-            '--provider' => 'SatOnSite\Spanish\SpanishServiceProvider'
+            '--provider' => 'satonsite\Spanish\SpanishServiceProvider'
         ]);
         
         $this->info('Idiomas actualizados.');
