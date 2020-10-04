@@ -1,6 +1,6 @@
 <?php
 
-namespace SatOnSite\Spanish;
+namespace satonsite\Spanish;
 
 use Illuminate\Support\ServiceProvider;
 

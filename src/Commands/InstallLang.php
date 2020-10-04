@@ -1,6 +1,6 @@
 <?php
 
-namespace SatOnSite\Spanish\Commands;
+namespace satonsite\Spanish\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Artisan;

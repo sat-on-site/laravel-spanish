@@ -1,5 +1,5 @@
 {
-    "name": "SatOnSite/spanish",
+    "name": "satonsite/spanish",
     "description": "Traducción al castellano del scaffolding de Laravel 8 con livewire",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "satonsite",
 		"livewire"
     ],
-    "homepage": "https://github.com/SatOnSiteNet/laravel-spanish.git",
+    "homepage": "https://github.com/sat-on-site/laravel-spanish.git",
     "authors": [
         {
             "name": "Fernando Gaudes",
@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "SatOnSite\\Spanish\\": "src"
+            "satonsite\\Spanish\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SatOnSite\\Spanish\\Tests\\": "tests"
+            "satonsite\\Spanish\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -45,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SatOnSite\\Spanish\\SpanishServiceProvider"
+                "satonsite\\Spanish\\SpanishServiceProvider"
             ]
         }
     }
