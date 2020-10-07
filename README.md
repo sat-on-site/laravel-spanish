@@ -21,4 +21,4 @@ E instalamos los archivos de traducción con
 php artisan satonsite:install-lang
 ```
 
-Con ello habremos añadio la subcarpeta 'es' a 'resources\lang' con los archivos para los mensajes de validacion y el archivo 'es.json' para los textos de las plantillas.
+Con ello habremos añadio la subcarpeta 'es' a 'resources\lang' con los archivos para los mensajes de validación y el archivo 'es.json' para los textos de las plantillas.
