@@ -1,6 +1,6 @@
 {
     "name": "satonsite/spanish",
-    "version": "1.0.17"
+    "version": "1.0.17",
     "description": "Traducción al castellano del scaffolding de Laravel 8 con livewire",
     "keywords": [
         "laravel",
